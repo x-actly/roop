@@ -1,8 +1,6 @@
-## x-actly`s DeepFake Version of roop without Limitations and NSFW Filter. 
+# DeepFake Version of roop without Limitations and NSFW Filter. 
 
-This is a forked version from roop by s0md3v with a disabled NSFW Filter. 
-
-> I have decided to fork this repository and make it available without limitations and NSFW filters. Please use this version only in accordance with the relevant laws of your country. Be aware that creating deepfakes of individuals without their permission may be illegal, and you may be held accountable.
+## I have decided to fork this repository and make it available without limitations and NSFW filters. Please use this version only in accordance with the relevant laws of your country. Be aware that creating deepfakes of individuals without their permission may be illegal, and you may be held accountable.
 
 # Roop
 
