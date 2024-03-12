@@ -1,8 +1,8 @@
-## This project has been discontinued
+## x-actly`s DeepFake Version of roop without Limitations and NSFW Filter. 
 
-Yes, it still works, you can still use this software. It just won't recieve any updates now.
+This is a forked version from roop by s0md3v with a disabled NSFW Filter. 
 
-> I do not have the interest or time to oversee the development of a software. I thank all the amazing people who contributed to this project and made what it is in it's final form.
+> I have decided to fork this repository and make it available without limitations and NSFW filters. Please use this version only in accordance with the relevant laws of your country. Be aware that creating deepfakes of individuals without their permission may be illegal, and you may be held accountable.
 
 # Roop
 
@@ -10,11 +10,7 @@ Yes, it still works, you can still use this software. It just won't recieve any 
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://github.com/s0md3v/roop/actions?query=workflow:ci)
 
-<img src="https://i.ibb.co/4RdPYwQ/Untitled.jpg"/>
-
 ## Installation
-
-Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful [Discord](https://discord.com/invite/Y9p4ZQ2sB9) community that will guide you to install roop.
 
 [Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
 
